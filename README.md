@@ -1,6 +1,6 @@
 # datafun-04-jupyter
 
-Create and Activate Project Virtual Environment
+# Create and Activate Project Virtual Environment
 
 python3 -m venv .venv
 source .venv/bin/activate
