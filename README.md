@@ -2,8 +2,6 @@
 
 # Create and Activate Project Virtual Environment
 ```
-## Create and Activate Project Virtual Environment
-```
 python3 -m venv .venv
 source .venv/bin/activate
 python3 -m pip install -r "requirements.txt"
@@ -27,7 +25,7 @@ python3 -m pip install jupyterlab numpy pandas matplotlib seaborn scipy
 
 ## Create a Notebook
 ```
-1. Create the Notebook: In the VS Code Explorer, create a new file i.e., yourname_eda.ipynb. Ensure it has a .ipynb extension.
+1. In the VS Code Explorer, create a new file i.e., yourname_eda.ipynb. Ensure it has a .ipynb extension.
 2. Verify your new notebook is open for editing. If needed, view the project files in VS Code Explorer and double-click the notebook file to open it for editing.
 3. Add a Markdown cell at the top of your notebook with the introduction (include the title, author, date and the purpose of the project).
 ```
